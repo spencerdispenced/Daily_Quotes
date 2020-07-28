@@ -1,0 +1,24 @@
+body {background-image: url("books.jpg");}
+h1   {color: blue;}
+p    {color: orangered;}
+.center {text-align: center;}
+
+.bottom {
+    position: fixed;
+    text-align: right;
+    bottom: 0px;
+    width: 97%;
+    text-decoration: underline;
+    color: black;
+}
+
+.github {
+    color: white;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+
+input[type=text] {
+    width: 30%;
+}

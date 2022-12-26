@@ -1,6 +1,5 @@
 # Daily_Quotes
-
-SHUTDOWN - Heroku removed free tier.
+NO LONGER ACTIVE - Shut down due to Heroku removing their free tier.
 
 Web app designed to send subscribers one email daily with a quote attributed to a celebrity or fictional character
 
@@ -8,4 +7,3 @@ Web app designed to send subscribers one email daily with a quote attributed to 
 - Postgres used to manage database
 - BeautifulSoup used for webscraping
 - yagmail used to send emails
-- Deployed on Heroku at https://dailyquotesst.herokuapp.com/
